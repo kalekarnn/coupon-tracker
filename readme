@@ -1,0 +1,16 @@
+# Coupon Code Extractor Chrome Extension
+
+## Overview
+This Chrome extension automatically extracts coupon codes from webpages, notifying users with a sleek, modern UI. It features real-time scanning, automatic notifications, and a user-friendly interface with customizable themes.
+
+## Features
+- Automatic coupon code detection and extraction
+- Real-time page scanning upon loading
+- Tab-specific coupon storage
+- Refresh coupon extraction on tab change
+- Pop-up notifications with detected coupon codes
+- One-click copy-to-clipboard functionality
+- Sleek, minimalist interface with smooth gradients and subtle animations
+- Light and dark theme options
+- Optimized for various website layouts and coupon formats
+
