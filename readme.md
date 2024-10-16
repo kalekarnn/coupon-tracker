@@ -1,6 +1,9 @@
-# Coupon Code Extractor Chrome Extension
+<div align="center">
+  <img src="https://github.com/kalekarnn/coupon-tracker/blob/main/images/icon128.png" alt="Alt text" title="Coupon Tracker" />
+</div>
 
-## Overview
+
+# Coupon Tracker
 This Chrome extension automatically extracts coupon codes from webpages, notifying users with a sleek, modern UI. It features real-time scanning, automatic notifications, and a user-friendly interface with customizable themes.
 
 ## Features
@@ -8,9 +11,8 @@ This Chrome extension automatically extracts coupon codes from webpages, notifyi
 - Real-time page scanning upon loading
 - Tab-specific coupon storage
 - Refresh coupon extraction on tab change
-- Pop-up notifications with detected coupon codes
+- Notification dot with detected coupon codes
 - One-click copy-to-clipboard functionality
 - Sleek, minimalist interface with smooth gradients and subtle animations
-- Light and dark theme options
 - Optimized for various website layouts and coupon formats
 
